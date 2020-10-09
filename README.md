@@ -1,8 +1,5 @@
 ### Wandesson 💻 - Software Engineer - DEV
 
-<!--
-**wandessonsoares/wandessonsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Sobre mim:
 - 💻 Graduado em Sistemas para Internet - IFPB e Pós-granduando em Desenvolvimento de aplicações Web - Unipê
 - 🔭 Atualmente atuando com Java e Angular+
@@ -51,8 +48,9 @@ Sobre mim:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/maven.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/gitlab.png"></code>
 
+<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jussaragranja&theme=dracula)](https://github.com/wandessonsoares/)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jussaragranja&show_icons=true&theme=dracula)](https://github.com/wandessonsoares/)
 <br/>
 
--->
