@@ -50,7 +50,7 @@ Sobre mim:
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jussaragranja&theme=dracula)](https://github.com/wandessonsoares/)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jussaragranja&show_icons=true&theme=dracula)](https://github.com/wandessonsoares/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wandessonsoares)](https://github.com/wandessonsoares/)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wandessonsoares&show_icons=true)](https://github.com/wandessonsoares/)
 <br/>
 
